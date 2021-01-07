@@ -144,8 +144,12 @@ p,a{
     text-align: center;
     font-size: 30px;
     color: teal;
+<<<<<<< HEAD
     font-family: 'Roboto', sans-serif;
     text-transform: lowercase;
+=======
+    text-transform: lower-case;
+>>>>>>> 20ee69d869f37a5b15f2049856192612b57e7815
 }
 .social-link img{
     width: 32px;
@@ -160,5 +164,10 @@ p,a{
 .footer-part{
     text-align: center;
     background-color: thistle;
+<<<<<<< HEAD
     padding: 10px 10px;
 }
+=======
+    padding: 10px;
+}
+>>>>>>> 20ee69d869f37a5b15f2049856192612b57e7815
