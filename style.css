@@ -55,9 +55,6 @@ p,a{
     font-weight: bold;
     color:#FF8367;
 }
-.first-description{
-
-}
 .hire-me-link{
     text-decoration: none;
     background: linear-gradient(#F15F60, #F37563);
@@ -116,9 +113,6 @@ p,a{
     margin: 10px 0px;
     color: #363958;
 }
-.column-text{
-
-}
 .last-column img{
     width: 100%;
 }
@@ -153,6 +147,7 @@ p,a{
     text-align: center;
     font-size: 30px;
     color: teal;
+    text-transform: lower-case;
 }
 .social-link img{
     width: 32px;
